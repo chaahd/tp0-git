@@ -1,2 +1,2 @@
-"# Mon premier projet Git" 
-Auteur : votre nom
+# Mon premier projet Git 
+Auteur : MEKKY
